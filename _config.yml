@@ -3,7 +3,7 @@ theme: minima
 title: Vysakh KS
 author: Vysakh KS
 email: vyshuks@gmail.com
-url: https://vysakh-ks.herokuapp.com/
+url: https://vyshuks.github.io/
 
 
 description: >
@@ -61,14 +61,10 @@ comments_repo: vyshuks/vyshuks.github.io
 defaults:
   - scope:
       path: ""
-    values:
-      image: https://s.gravatar.com/avatar/2136e716a089f4a3794f4007328c7bfb?s=800 # Apply default site image
-  - scope:
-      path: ""
       type: posts
     values:
       tags:
-        - Other # Add a default tag to all posts
+        - Technology # Add a default tag to all posts
 
 # Disable highlighting to use highlightJS instead
 # highlighter: none # Not supported by GitHub Pages
