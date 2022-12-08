@@ -3,7 +3,7 @@ layout: post
 title: Python Generator Explained
 description: Python Generator, Iterator Explained
 date: 2021-12-30 11:12:30 -0800
-tags: Python Generator Iterator
+tags: Python
 ---
 
 The generator concept can be found in a variety of programming languages. 
@@ -93,7 +93,7 @@ print(x)
 print(type(x))
 
 #output:
-<generator object even_numbers at 0x7f4071f1d2e0>; 
+<generator object even_numbers at 0x7f4071f1d2e0>
 <class 'generator'>
 ```
 
