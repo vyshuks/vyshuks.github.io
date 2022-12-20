@@ -6,7 +6,7 @@ date: 2021-12-30 11:12:30 -0800
 tags: Python
 ---
 
-[Checkout Part 1 of Python Generator](/2021/12/30/Python-Generator-Explained-Part-2.html)
+[Checkout Part 1 of Python Generator](/2021/12/30/Python-Generator-Explained-Part-1.html)
 
 # Generator Expression
 Generator expression is an inline expression of an generator function.
