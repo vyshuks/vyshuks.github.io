@@ -1,2 +1,1 @@
-A cinephile, software developer and a tech enthusiast from Kochi.
-Hope you enjoy what you’re reading here!
+Hi there! I’m a Software developer from kochi, Kerala.
