@@ -215,7 +215,7 @@ Traceback (most recent call last):
 StopIteration
 ```
 
-[Checkout Part 2 of Python Generator] (/2021/12/30/Python-Generator-Explained-Part-2.html)
+[Checkout Part 2 of Python Generator] (2021/12/30/Python-Generator-Explained-Part-2.html)
 
 
 
