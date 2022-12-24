@@ -158,7 +158,7 @@ print(list(get_squares(5)))
 [0, 1, 4, 9, 16]
 
 ```
-## `yield from`
+## yield from
 
 Introduced in python3.3 for refactoring generators.
 We can see with an example.
@@ -215,7 +215,7 @@ Traceback (most recent call last):
 StopIteration
 ```
 
-Checkout Part 2 of Python Generator (https://www.google.com)
+[Checkout Part 2 of Python Generator](/2021/12/30/Python-Generator-Explained-Part-2.html)
 
 
 
