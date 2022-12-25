@@ -2,7 +2,7 @@
 layout: post
 title: Learn Reactjs Chapter 01
 description: React js Learning
-date: 2022-12-24 20:12:30
+date: 2022-12-12 20:12:30 -0800
 tags: Reactjs
 ---
 
