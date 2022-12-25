@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Learn Reactjs Chapter 01
+title: Learn ReactJS Chapter 01
 description: React js Learning
 date: 2022-12-12 20:12:30 -0800
-tags: Reactjs
+tags: ReactJS
 ---
 
 # Introduction
 
-Reactjs is a javascript library not a framework for building user interface.
+ReactJS is a javascript library not a framework for building user interface.
 
 Like any javascript libraries we can include react files in our websites using script tags.
 
