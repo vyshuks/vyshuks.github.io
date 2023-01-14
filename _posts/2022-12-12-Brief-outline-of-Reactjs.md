@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Learn ReactJS Chapter 01
-description: React js Learning
+title: Brief outline of React js
+description: Brief outline of React js
 date: 2022-12-12 20:12:30 -0800
 tags: ReactJS
 ---
@@ -76,7 +76,7 @@ First we can try with plain jacascript.
 
 [`createElement`](https://beta.reactjs.org/apis/react/createElement) lets you create a React element.
 [`createRoot`](https://beta.reactjs.org/apis/react-dom/client/createRoot#createroot) help us to create a React root for displaying content inside a browser DOM element
-And `render` method help us to display the  rect elemnts into root node or container.
+And `render` method help us to display the  rect elements into root node or container.
 
 Link to the above code can be found [here](https://github.com/vyshuks/learn-react/tree/main/01).
 
