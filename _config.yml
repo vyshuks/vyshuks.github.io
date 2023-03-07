@@ -2,13 +2,11 @@ theme: minima
 
 title: Vysakh KS
 author: Vysakh KS
-email: vyshuks@gmail.com
 url: https://vyshuks.github.io/
 
 
 description: >
-  Hi there! I’m a Software developer from kochi, Kerala.
-
+  
 # Minima variables
 #twitter_username:  
 github_username:   vyshuks
@@ -22,6 +20,7 @@ social-links:
   LinkedIn:      https://www.linkedin.com/in/vysakh-ks/
   GitHub:        https://github.com/vyshuks
   Website:       https://vyshuks.github.io/
+  Email:         mailto:vyshuks@gmail.com
 
 # plugin: jekyll-seo-tag
 
