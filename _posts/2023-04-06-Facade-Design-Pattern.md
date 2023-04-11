@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Facade Pattern
+title: Facade Design Pattern
 description: Brief outline of Facade Design Pattern
 date: 2023-04-06 20:12:30 -0800
-tags: Design Pattern
+tags: DesignPattern
 ---
 
 # Introduction
